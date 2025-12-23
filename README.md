@@ -4,6 +4,8 @@
 
 Sync is a responsive landing page HTML template built with Bootstrap 4 for presenting mobile apps to the online audience and converting visitors into users. It features a modern design with details lightbox, tabbed content, image slider, image lightbox, statistics counters, dropdown navigation, extra pages, and a working contact form.
 
+Live Link : https://ashishrastogi123.github.io/Mobile_Landing_page/
+
 ## Features
 
 - **Responsive Design**: Optimized for all devices (mobile, tablet, desktop)
